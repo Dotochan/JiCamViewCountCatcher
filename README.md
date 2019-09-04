@@ -1,2 +1,3 @@
 # JiCamViewCountCatcher
-just batch catching some numbers from youtube video page,never mind
+
+无聊点点F5，看看女儿们的直拍数据咋样了

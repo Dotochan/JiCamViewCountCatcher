@@ -45,9 +45,7 @@ def main():
             'u-GRWRs_d6I','yQFzeBzO_ZE','zfaGTwmxG3A','kMYEntl-_js','mVH_dzY3wRI',
             'IH7cIEByWWU','t_LcpM-QG-4','0hr-DyTWLU4','9eIfStw-e_c','1r6fPvCt1UE',
             'XCZEnJ5L81Q','KScSFIrl8HQ','txH9eX8hD_Y','bxWD4TpxKWI','fwrQE9pGizM',
-            'j25j272Z9hQ',
-            'jFPz8wsQurw',
-            '7IFWkA0FM9o',
+            'j25j272Z9hQ','jFPz8wsQurw','7IFWkA0FM9o',
         ],
         'nako': [
             'vIcFnNdHc2w', '5YHLH9CVff0', 'o6VpbfOT9R0', 'Rry_viMzp_M',

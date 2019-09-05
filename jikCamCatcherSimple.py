@@ -88,7 +88,7 @@ def main():
             content = soup.find('div', {'class': 'watch-view-count'})
             viewCount = re.findall(r'\d+', parse(content, True))[0]
             delta = int(viewCount)
-            if redis.hexists(key, title):
+            if redis.exists(key, title):
                 preViewCount = int(redis.hget(key, title).decode('utf-8'))
                 delta = delta - preViewCount
             redis.hset(key, title, str(viewCount))
